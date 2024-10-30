@@ -1,0 +1,38 @@
+.btn--secondary:hover {
+    color: rgba(41, 56, 96, 1);
+}
+
+.sidebar-menu li a:hover {
+    background: rgba(41, 56, 96, 1);
+    color: white;
+}
+
+
+.sidebar-menu li a {
+    color: rgba(41, 56, 96, 1);
+    border: 1px solid rgba(41, 56, 96, 1);
+}
+
+.sidebar-menu>li a.active {
+    background: rgba(41, 56, 96, 1);
+    color: white;
+}
+
+input[type=number]:focus {
+    color: rgba(41, 56, 96, 1);
+    border: 2px solid rgba(41, 56, 96, 1);
+}
+
+.form-select:hover {
+    border: 1px solid rgba(41, 56, 96, 1);
+}
+
+.btn {
+    background: rgba(41, 56, 96, 1);
+    color: white;
+}
+
+.fa-solid{
+    margin: 3px;
+    padding: 2px;
+}

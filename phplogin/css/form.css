@@ -1,0 +1,33 @@
+input[type=text]:focus {
+    color: rgba(41, 56, 96, 1);
+    border: 2px solid rgba(41, 56, 96, 1);
+}
+
+input[type=email]:focus {
+    color: rgba(41, 56, 96, 1);
+    border: 2px solid rgba(41, 56, 96, 1);
+}
+
+input[type=password]:focus {
+    color: rgba(41, 56, 96, 1);
+    border: 2px solid rgba(41, 56, 96, 1);
+}
+
+a {
+    color: rgba(41, 56, 96, 1);
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(ellipse at bottom, #0D1E31, #111);
+    overflow: hidden;
+    color: white;
+}
+
+.rounded {
+    background: rgba(255, 255, 255, 0.2);
+    border: 2px solid rgba(41, 56, 96, 1);
+}
